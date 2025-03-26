@@ -1,0 +1,11 @@
+button{
+    display:block;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: rgb(51, 51, 187) ;
+    border: 0;
+    border-radius: 10%;
+    box-shadow: 5px 5px 10px rgb(94, 92, 92);
+    font-weight: bold;
+}
